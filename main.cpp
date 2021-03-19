@@ -77,7 +77,7 @@ int main(int argc, char* argv[])
         }
     }
     else
-        cerr<<"Erro ao abrir arquivo de saida!"<<endl;
+        cerr<<"Erro ao abrir arquivo de entrada!"<<endl;
 
     if(s == 1)
         cout<<codificado<<endl<<endl;
